@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+canvas{
+    background-color: black;
+    border-color: red;
+    box-shadow: slategray;
+    border: inset 5px;
+}
